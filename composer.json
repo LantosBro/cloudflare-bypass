@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^7.2",
-    "lantosbro/simple-javascript-compilation": "dev-master",
+    "lantosbro/simple-javascript-compilation": "dev-main",
     "ext-curl": "*",
     "ext-json": "*",
     "ext-bcmath": "*"
